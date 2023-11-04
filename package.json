@@ -19,7 +19,9 @@
     "create-hook": "node scripts/create-hook.js",
     "delete-hook": "node scripts/delete-hook.js",
     "create-slice": "node scripts/create-slice.js",
-    "delete-slice": "node scripts/delete-slice.js"
+    "delete-slice": "node scripts/delete-slice.js",
+    "create": "node scripts/create.js",
+    "delete": "node scripts/delete.js"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
